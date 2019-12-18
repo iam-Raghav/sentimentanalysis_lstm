@@ -11,7 +11,7 @@ sentiment analysis done using LSTM layers
     
 # Files
 1. data.csv - Contains the dataset having the sentence and its sentiment label.
-2. Text_cleaner.py - This file will clean the dataset by removing the below stopwords, punctuations and converting the format to UTF-8
+2. Text_cleaner.py - This file will clean the dataset by removing the stopwords, punctuations and converting the format to UTF-8
 3. Pre_processing.py - This file contains the main code that needs to be run to predict the sentiment.
 4. Lstmclassifier.py - This file contains the training, testing and Lstm model required for the sentiment analysis.
 
